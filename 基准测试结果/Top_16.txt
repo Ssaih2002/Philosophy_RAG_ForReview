@@ -1,0 +1,664 @@
+{
+  "config": {
+    "final_k": 16,
+    "use_rerank": true,
+    "use_sep_reference": false,
+    "use_hybrid": true,
+    "answer_style": "哲学论述",
+    "doc_preview_chars": 1200,
+    "note": "Full=混合检索+RRF+重排；B2=sparse_only+同一套重排与截断。"
+  },
+  "full": {
+    "mode": "full_rrf",
+    "mode_label": "Full（hybrid + RRF + rerank）",
+    "count": 30,
+    "docs": [
+      {
+        "chunk_id": "chunk_262216",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "621",
+        "text": "35 tel, worin das konstante, und der Masse Arbeitskraft, worin das variable \nKapital umgesetzt wird. Die erstere Differenz nimmt zu mit der letzteren, \naber in geringerem Grad. \nIm vierten Abschnitt wurde gezeigt, wie die Entwicklung der gesell-\nschaftlichen Produktivkraft der Arbeit Kooperation auf großer Stufenleiter \n40 voraussetzt, wie nur unter dieser Voraussetzung Theilung und Kombina-\ntion der Arbeit organisirt, Produktionsmittel durch massenhafte Koncen-\n569",
+        "text_was_truncated": false,
+        "text_full_length": 470
+      },
+      {
+        "chunk_id": "chunk_260973",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "10 herein den freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital \nverkauft. Historisch jedoch entwickelt sie sich im Gegensatz zur Bauern-\nwirthschaft und zum unabhängigen Handwerksbetrieb, ob dieser zünftige \nForm besitze oder nicht24). Ihnen gegenüber erscheint die kapitalistische \nKooperation nicht als eine besondre historische Form der Kooperation, \n15 sondern die Kooperation selbst als eine dem kapitalistischen Produktions-\nproceß eigenthümliche und ihn specifisch unterscheidende historische \nForm. \nWie die durch die Kooperation entwickelte gesellschaftliche Produktiv-\nkraft der Arbeit als Produktivkraft des Kapitals erscheint, so die Koopera-\n20 tion selbst als eine speciflsche Form des kapitalistischen Produktionspro-",
+        "text_was_truncated": false,
+        "text_full_length": 746
+      },
+      {
+        "chunk_id": "chunk_260972",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "Elftes Kapitel - Kooperation \nGemeinwesen vorherrschend finden, beruht einerseits auf dem Gemeinei-\ngenthum an den Produktionsbedingungen, andrerseits darauf, daß das ein-\nzelne Individuum sich von der Nabelschnur des Stammes oder des Ge-\nmeinwesens noch ebensowenig losgerissen hat, wie das Bienenindividuum \n5 \nvom Bienenstock. Beides unterscheidet sie von der kapitalistischen Koope-\nration. Die sporadische Anwendung der Kooperation auf großem Maßstab \nin der antiken Welt, ||344| dem Mittelalter und den modernen Kolonien, \nberuht auf unmittelbaren Herrschafts- und Knechtschafts-Verhältnissen, \nzumeist auf der Sklaverei. Die kapitalistische Form setzt dagegen von vorn-\n10 herein den freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital",
+        "text_was_truncated": false,
+        "text_full_length": 753
+      },
+      {
+        "chunk_id": "chunk_263865",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1168",
+        "text": "Marx bezüglich des vierten Kapitels geschrieben: „Überhaupt sind in dieser \nDarstellung (namentlich Cooperation und Manufactur) einige Punkte mir noch \nnicht ganz klar, bei denen ich nicht herausfinden kann, auf welche Thatsachen \nsich die nur allgemein gegebne Entwicklung bezieht. Der äußeren \nForm der \nDarstellung nach scheint dies 4. Capitel auch am raschesten geschrieben und \nam wenigsten wieder durchgearbeitet zu sein.\" Diese und andere Hinweise, die \nMarx bereits bei dem ersten Versuch einer französischen Übersetzung des „Ka-\npitals\" durch Charles Keller beachten wollte, wurden schließlich in der 2. Auf-\nlage berücksichtigt. \nBei der Vorbereitung der neuen Auflage fanden auch die Überlegungen des \nVerlegers Meißner Beachtung. Ausgehend davon, daß es zunehmend Arbeiter",
+        "text_was_truncated": false,
+        "text_full_length": 784
+      },
+      {
+        "chunk_id": "chunk_264222",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1267",
+        "text": "Variantenverzeichnis \n439.17 \nSchwankungen] D1 Fluktuationen [374.3] \n439.23 \nBaumwolle] D1 Baumwollballen [374.9-10] K2 Baumwolle \n439.33 \ndes Mehls] D1 für Mehl [374.19] \n440.10 \nLobreden ] D1 Elogen [374.33] \n440.26 u. \nNote245). J~ 8. Revolutionirung bis Kooperation. J~ Man] D1 \n441.1-5 \nNote245). J Man [375.11-12] \n440.40 \nunheilvolle] D1 ruinirende [375.32] \n440.40 \nzusammenwirkende ] D1 cooperirende [375.33] \n440.40 \nhervorgebracht] D1 producirt [375.33] \n441.38 \nauf Grundlage ] D1 auf technologischer Grundlage [376.33-34] \n441.40 \nEngland, dort mit] D1 England, mit [376.35] \n442.4 \nder eigentlichen Fabrik] D1 der Fabrik per se [376.18] \n442.18-20 \n6 d.249). J b) Rückwirkung bis Hausarbeit. J Mit ] D1 6 d.249) J Mit \n[376.32 und 377.1] \n443.18",
+        "text_was_truncated": false,
+        "text_full_length": 760
+      },
+      {
+        "chunk_id": "chunk_259224",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "18",
+        "text": "Einleitung \nUngeachtet der Tatsache, daß die I.Auflage des „Kapitals\" rasch Ver-\nständnis unter den fortgeschrittensten Vertretern der deutschen Arbei-\nterklasse fand, gab es zur Gliederung des Werkes kritische Stimmen, \nwie die Ausführungen im Prospekt zur 2. Auflage zeigen (siehe S. 55). \nEs war vor allem Engels, der noch vor ihrem Erscheinen auf die nicht \nausreichende Gliederung hinwies und Marx vorschlug, die Abschnitte \nund Kapitel stärker zu unterteilen (siehe Engels an Marx, 23. August \n1867). \nZwischen dem Inhalt sowie der inneren Struktur des ersten Bandes \ndes „Kapitals\" und seiner äußeren Einteilung besteht ein enger Zusam-\nmenhang. In diesem Werk wird aufsteigend vom Abstrakten zum Kon-\nkreten der kapitalistische Produktionsprozeß mittels ökonomischer Be-",
+        "text_was_truncated": false,
+        "text_full_length": 778
+      },
+      {
+        "chunk_id": "chunk_240381",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "49",
+        "text": "schiedenen Individuen entsteht, er-\nscheint diesen Individuen, weil das\nZusammenwirken selbst nicht frei-\n20\nwillig,\nsondern\nnaturwüchsig\nist,\nnicht als ihre eigne, vereinte Macht,\nsondern als eine fremde, außer ihnen\nstehende Gewalt, von der sie nicht\nwissen woher & wohin, die sie also\n25\nnicht mehr beherrschen können, die\nim Gegentheil nun eine eigenthüm-\nliche vom Wollen & Laufen der\nMenschen unabhängige, ja dies Wol-\nlen & Laufen erst dirigirende Rei-\n30\nhenfolge von Phasen & Entwick-\nlungsstufen durchlaufen.x Wie hätte\nsonst z. B. das Eigenthum überhaupt\neine Geschichte haben, verschiedene\nGestalten annehmen & etwa das\n35\nGrundeigenthum je nach der ver-\nschiedenen vorliegenden Vorausset-\nzung in Frankreich aus der Parzelli-\nrung zur Centralisation in wenigen",
+        "text_was_truncated": false,
+        "text_full_length": 773
+      },
+      {
+        "chunk_id": "chunk_260962",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "381",
+        "text": "Elftes Kapitel • Kooperation \nmando desselben Kapitals zusammenwirkende Arbeitermasse industrieller \nOberofficiere (Dirigenten, managers) und Unterofficiere (Arbeitsaufseher, \nforemen, overlookers, contre-maîtres), die während des Arbeitsprocesses \nim Namen des Kapitals kommandiren. Die Arbeit der Oberaufsicht befe-\n5 stigt sich zu ihrer ausschließlichen Funktion. Bei Vergleichung der Pro-\nduktionsweise unabhängiger Bauern oder selbstständiger Handwerker mit \nder auf Sklaverei beruhenden Plantagenwirthschaft, zählt der politische \nOekonom diese Arbeit der Oberaufsicht zu den faux frais de produc-\ntion21*). Bei Betrachtung der kapitalistischen Produktionsweise identiflcirt \n10 er dagegen die Funktion der Leitung, soweit sie aus der Natur des gemein-",
+        "text_was_truncated": false,
+        "text_full_length": 758
+      },
+      {
+        "chunk_id": "chunk_259253",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "23",
+        "text": "Arbeit charakterisiert. Mit dem ausdrücklichen Bezug beider Begriffe \nauf dieselbe reale Erscheinung hat Marx sowohl das Verhältnis beider \nBegriffe zueinander als auch das Verhältnis zu der von ihnen widerge-\nspiegelten Realität präzisiert. Der ergänzende Charakter dieser Begriffs-\n23'",
+        "text_was_truncated": false,
+        "text_full_length": 287
+      },
+      {
+        "chunk_id": "chunk_260949",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "378",
+        "text": "Produktivkraft der Arbeit oder Produktivkraft gesellschaftlicher Arbeit. Sie \nentspringt aus der Kooperation selbst. Im planmäßigen Zusammenwirken \nmit Andern streift der Arbeiter seine individuellen Schranken ab und ent- 20 \nwickelt sein Gattungsvermögen19). \nWenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können, \nohne zusammen zu sein, ihre Konglomeration auf bestimmtem Raum da-\nher Bedingung ihrer Kooperation ist, können Lohnarbeiter nicht kooperi-\nren, ohne daß dasselbe Kapital, derselbe Kapitalist sie gleichzeitig anwen- 25 \ndet, also ihre Arbeitskräfte gleichzeitig kauft. Der Gesammtwerth dieser \nArbeitskräfte, oder die Lohnsumme der Arbeiter für den Tag, die Woche \nu.s.w., muß daher in der Tasche des Kapitalisten vereint sein, bevor die Ar-",
+        "text_was_truncated": false,
+        "text_full_length": 767
+      },
+      {
+        "chunk_id": "chunk_260977",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "384",
+        "text": "Vierter Abschnitt • Die Produktion des relativen Mehrwerts \nso in den noch handwerksmäßigen Anfängen der Manufaktur25) und in je-\nner Art großer Agrikultur, welche der Manufakturperiode entspricht, und \nsich wesentlich nur durch die Masse der gleichzeitig angewandten Arbeiter \nund den Umfang der koncentrirten Produktionsmittel von der Bauern-\nwirthschaft unterscheidet. Die einfache Kooperation ist stets noch vorherr- \n5 \nsehende Form solcher Produktionszweige, worin das Kapital auf großer \nStufenleiter operirt, ohne daß Theilung der Arbeit oder Maschinerie eine \nbedeutende Rolle spielte. \nDie Kooperation bleibt die Grundform der kapitalistischen Produktions-\nweise, obgleich ihre einfache Gestalt selbst als besondre Form neben ihren 10 \nweiter entwickelten Formen erscheint.",
+        "text_was_truncated": false,
+        "text_full_length": 783
+      },
+      {
+        "chunk_id": "chunk_261093",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "406",
+        "text": "duktionsmittel in Kapital ist also ein aus dem technischen Charakter der \nManufaktur entspringendes Gesetz62). \nWie in der einfachen Kooperation ist in der Manufaktur der funktioni- 20 \nrende Arbeitskörper eine Existenzform des Kapitals. Der aus vielen indivi-\nduellen Theilarbeitern zusammengesetzte gesellschaftliche Produktions-\nmechanismus gehört dem Kapitalisten. Die aus der Kombination der \nArbeiten entspringende Produktivkraft erscheint daher als Produktivkraft \ndes Kapitals. Die eigentliche Manufaktur unterwirft nicht nur den früher 25 \nselbstständigen Arbeiter dem Kommando und der Disciplin des Kapitals, \nsondern schafft überdem eine hierarchische Gliederung unter den Arbei-\ntern selbst. Während die einfache Kooperation die Arbeitsweise der Einzel-",
+        "text_was_truncated": false,
+        "text_full_length": 765
+      },
+      {
+        "chunk_id": "chunk_259227",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "18",
+        "text": "Form, die Behandlung des Doppelcharakters der warenproduzierenden \nArbeit und die Darstellung des Arbeitslohns „als irrationelle Erschei-\nnungsform eines dahinter versteckten Verhältnisses\" (ebenda), in den \nRezensionen zum „Kapital\" kaum eingegangen worden war. \nMarx hat die Gliederung des gesamten Buches verbessert (siehe \nS. 1124-1131). Einzelne Kapitel wurden weiter untergliedert und erhiel-\nten ein detailliertes Inhaltsverzeichnis (siehe S. 711-719). Dadurch spie-\ngeln sich sowohl der Inhalt als auch die Methode des Aufsteigens vom \nAbstrakten zum Konkreten in der äußeren Einteilung deutlicher wider \nals in der I.Auflage. Die entscheidenden Knotenpunkte des Erkenntnis-\nprozesses und die grundlegenden Erkenntnisse des „Kapitals\" kommen",
+        "text_was_truncated": false,
+        "text_full_length": 749
+      },
+      {
+        "chunk_id": "chunk_244183",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1026",
+        "text": "149.33\ndurch $seinñ\n149.34\nQuartalschrift $sogñ\n149.41\nZukunft $§ñ\n150.1\nvernünftige > vernünftige\nHervorhebung möglicherweise von Marx.\n150.3–4\ndieselbe wirklich vollbracht, indem sie > dieselbe wirklich voll-\nbracht, indem sie\nHervorhebung möglicherweise von Marx.\n150.7–9\n1 Menschen“\nin\neinem seiner „Acciþ\n2 ″\n″ der Vorstellung eines\n″\n„Accidentien“,\n3 ″\nnicht ″ ″\n″\n″\n″\n″\n,\na „als derþ\n2 des Selbstbewußtseins,\nb\nals\n″\n„Substanz“þ\n3 ″\n″\n,\n″\n″\n″\n„aufgehen\n150.13\nNatürlich $„im Interesseñ\n150.21\nKopfe Menschen machen > Kopfe Menschen machen\nHervorhebung wahrscheinlich von Marx.\n150.27\nEr $beweistñ\n150.27\nZusammenhang $derñ\n150.29\nstehen. $Derñ\n150.37\nWille > Magen\n151.4\nkennt, $die zumñ",
+        "text_was_truncated": false,
+        "text_full_length": 694
+      },
+      {
+        "chunk_id": "chunk_244826",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1255",
+        "text": "also $diesenñ seiner Antithese bis lassen.m\n382.31\nhineinbringt > meinfängtm\n382.32–33\nsehen. š m$Die Gedankenlosigkeit & Zusammenhangslosigkeit,\n1\nmit der Sankt Sancho diese beiden obigen Sätze mit seinen\n2m womit\nübrigen Phrasen über das Recht zusammenstellt, ist nur dieselbe\nKonfusion, $dieñ mit der er das Recht sowohl als „Willen“ wie\nals „Macht“ auffaßt.%m In\n382.33\nGeschichte $der Theorie% bildeten\nTilgung wahrscheinlich von Marx.\n382.34\nRechts $ansa\n˙\nh\n˙\ne\n˙\nn\n˙\nñ\n382.34\nbetrachteten, $einenñ\n382.35–36\nansahen – $ein Gegensatz,ñ\n382.36–37\n: (Kind, Alter, Neger pp) :\n382.37\n: (Jüngling, Neuer, Mongole pp) :\n382.37\nauffassen $könntenñ\n383.1\nabhängt, $z.B.% ihre\n383.1\n& die $damit zusammenhängen\n˙\nd\n˙\ne\n˙\nñ",
+        "text_was_truncated": false,
+        "text_full_length": 721
+      },
+      {
+        "chunk_id": "chunk_265239",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1536",
+        "text": "remarque l'union de plusieurs individus dans le même emploi, \nse partageant les fonctions, l'un des affaires du dehors, l'autre \ndes travaux intérieurs. En Angleterre, les procureurs, les artistes, \nles médecins même sont ainsi associés; les uns vont plaider, visi-\nter les malades, ou surveiller les travaux; les autres rédigent les \nplans, les mémoires ou les consultations. L'union des ouvriers \navec l'entrepreneur d'Industrie est aussi une véritable associa-\ntion, qui permet d'entreprendre toute grande exploitation, soit \nd'agriculture, soit de fabrication, tandis qu'ailleurs le travail isolé \nretarde la production, multiplie les peines, et fait arriver bien \nplus tard au bien-être.\" - Siehe Karl Marx: Zur Kritik der politi-\nschen Ökonomie (Manuskript \n1861-1863). (MEGA® \nII/3.6.",
+        "text_was_truncated": false,
+        "text_full_length": 791
+      },
+      {
+        "chunk_id": "chunk_245332",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1440",
+        "text": "H11).\n268.26–29\np 277. „Wäre bis bleiben.“] Stirner: Der Einzige. S. 276/277. –\nHervorhebungen von Marx und Engels.\n268.41–269.1\nIn der revolutionären bis zusammen.] Ähnlich formulierte Marx in\nden Thesen „ad Feuerbach“: „Das Zusammenfallen de\n˙\ns\n˙\nAen-\nderns de\n˙\nr\n˙\nUmstände u. de\n˙\nr\n˙\nmenschlichen Thätigkeit od. Selbst-\nveränderung kann nur als revolutionaire Praxis gefaßt u. rati-",
+        "text_was_truncated": false,
+        "text_full_length": 389
+      },
+      {
+        "chunk_id": "chunk_260971",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "382",
+        "text": "Die Kooperation im Arbeitsproceß, wie wir sie in den Kulturanfängen \n35 \nder Menschheit, bei Jägervölkern23a) oder etwa in der Agrikultur indischer \n\") R. Jones: Textbook of Lectures etc., p. 77, 78. Die altassyrischen, ägyptischen u. s. w. \nSammlungen in London und andren europäischen Hauptstädten machen uns zu Augenzeu-\ngen jener kooperativen Arbeitsprocesse. \n\"*) Linguet in seiner „Théorie des Lois civiles\" hat vielleicht nicht Unrecht, wenn er die Jagd \n40 \nfür die erste Form der Kooperation, und Menschenjagd (Krieg) für eine der ersten Formen der \nJagd erklärt. \n330",
+        "text_was_truncated": false,
+        "text_full_length": 577
+      },
+      {
+        "chunk_id": "chunk_260975",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "sich die kapitalistische Produktionsweise daher einerseits als historische \nNotwendigkeit für die Verwandlung des Arbeitsprocesses in einen gesell-\n30 schaftlichen Proceß darstellt, so andrerseits diese gesellschaftliche Form \ndes Arbeitsprocesses als eine vom Kapital angewandte Methode, um ihn \ndurch Steigerung seiner Produktivkraft profitlicher auszubeuten. \nIn ihrer bisher betrachteten einfachen Gestalt fallt die Kooperation zu-\nsammen mit der Produktion auf größrer Stufenleiter, bildet ||345| aber \n35 keine feste, charakteristische Form einer besondren Entwicklungsepoche \nder kapitalistischen Produktionsweise. Höchstens erscheint sie annähernd \nM) Die kleine Bauernwirthschaft und der unabhängige Handwerksbetrieb, die beide theils die",
+        "text_was_truncated": false,
+        "text_full_length": 747
+      },
+      {
+        "chunk_id": "chunk_243885",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "947",
+        "text": "935\nVariantenverzeichnis\n106.26 l\nBedürfniß $zu neuerñ\n106.27 l\n1 schafft. In\n2 ″\n.\nþ\n3 ″\n. In\n106.29–\n107.2 l\nGrundeigenthums : (verursacht bis wurde) : $derñ\n106.30–31 l\n: & Verschuldung :\n106.37–39 l\n1 außer den\ngewöhnlichen noch heute gültigen ökonomi-\n2 ″\ndurch die\n″\n″\n″\n″\n″\n1 schen Ursachen,þ\n2 ″\n″\n, durch\n106.40 l\nTributgetreides & $die hiermit folgendeñ\n107.3 l\nverschwunden, $&% die\n107.7 l\nProduktion $& hieltñ\n107.9 l\nes $nurñ\n107.25–26 l\n: durch Barbaren :\n107.26 l\nan, $daßñ\n107.27 l\nNation, die $sichñ\n107.32–33 l\nihrem Zusammenwirken, soweit dies möglich ist, > dem Gemein-\nwesen\n107.33 l\nberuht. $Esñ\n107.35–36 l\n: in Papier bestehende :\n108.8 l\n90 > m64m\n108.12 l\nentsprechen $muß%, oder\n108.13 l\nnicht $derñ\n108.16 l\nFaktum $daßñ\n108.16 l\n: in der Zeit :\n108.20 l",
+        "text_was_truncated": false,
+        "text_full_length": 783
+      },
+      {
+        "chunk_id": "chunk_260930",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "375",
+        "text": "Elftes Kapitel - Kooperation \nDie Form der Arbeit Vieler, die in demselben Produktionsproceß oder in \nverschiednen, aber zusammenhängenden Produktionsprocessen, planmä-\nßig neben und mit einander arbeiten, heißt Kooperation10). \nWie die Angriffskraft einer Kavalerieschwadron oder die Widerstands-\n5 kraft eines Infanterieregiments wesentlich verschieden ist von der Summe \nder von jedem Kavaleristen und Infanteristen vereinzelt entwickelten An-\ngriffs- und Widerstandskräfte, so die mechanische Kraftsumme vereinzel-\nter Arbeiter von der gesellschaftlichen Kraftpotenz, die sich entwickelt, \nwenn viele Hände gleichzeitig in derselben ungeteilten Operation zusam-\n10 menwirken, z. B. wenn es gilt eine Last zu heben, eine Kurbel zu drehn",
+        "text_was_truncated": false,
+        "text_full_length": 739
+      },
+      {
+        "chunk_id": "chunk_262915",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "766",
+        "text": "Die Produktion des relativen Mehrwerths. \nZehntes Kapitel. Begriff des relativen Mehrwerths \n318 \n15 \nElftes Kapitel. Kooperation \n329 \n(Ausgangspunkt der kapitalistischen Produktion, \nihr \nquantitativer Unterschied von der zünftigen Industrie \nS. 329. - Gesellschaftliche Durchschnittsarbeit S. 330. -\nOekonomie der Produktionsmittel S.332. - Gesellschaft- \n20 \nliehe Produktivkräfte der kooperativen Arbeit S. 333. -\nFrühere Formen der Kooperation S. 342.- Ihre kapitali-\nstische Form S.343.) \nZwölftes Kapitel. Theilung der Arbeit und Manufaktur \n345 \n1) Doppelter Ursprung der Manufaktur \n345 \n25 \n2) Der Theilarbeiter und sein Werkzeug \n3481 \n|826| \n3) Die beiden Grundformen der Manufaktur. Heterogene Manu-\nfaktur und organische Manufaktur \n352",
+        "text_was_truncated": false,
+        "text_full_length": 751
+      },
+      {
+        "chunk_id": "chunk_240636",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "141",
+        "text": "chen wieder verschiedene Abtheilungen unter den zu bestimmten Arbei-\n20\nten zusammenwirkenden Individuen. Die Stellung dieser einzelnen Ab-\ntheilungen gegen einander ist bedingt durch die Betriebsweise der acker-\nbauenden, industriellen & kommerziellen Arbeit (Patriarchalismus, Skla-\nverei, Stände, Klassen). Dieselben Verhältnisse zeigen sich bei entwickel-\nterem Verkehr in\nden Beziehungen verschiedner Nationen zu einander.\n25\nDie verschiedenen Entwicklungsstufen der Theilung der Arbeit sind\neben soviel verschiedene Formen des Eigenthums; d. h. die jedesmalige\nStufe der Theilung der Arbeit bestimmt auch die Verhältnisse der Indi-\nviduen zu einander in Beziehung auf das Material, Instrument, & Pro-\ndukt der Arbeit.\n30\nDie erste Form des Eigenthums ist das Stammeigenthum. Es entspricht",
+        "text_was_truncated": false,
+        "text_full_length": 794
+      },
+      {
+        "chunk_id": "chunk_244913",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1293",
+        "text": "1281\nVariantenverzeichnis\n2–3 diesen Knochen\nproduziren\na produktivenþ\n4m\n″\n″\nb produktiv behandeln\nMit\nder\nErsetzung\nnachdenken\n>\nnachzudenken\n(Schicht 4m)\nvervollständigte\nMarx\ndie\nvon\nEngels\nin\nSchicht 3 begonnene Textänderung.\n420.13\n: bisherigen :\n420.13\nIndividuen $müs\n˙\ns\n˙\ne\n˙\nn\n˙\nñ m$, eben weil sie gemeinschaftliche sind,%m\nmüssen\n420.14–15\n: m(Sieh oben.)m :\n420.15\ndiese $politischen & rechtlichen% Verhältnisse\nSiehe Korrekturenverzeichnis.\n420.15–16\n: gegenüber den Individuen :\n420.18–20\n1–2 Verhältnisse\nals mysteriöse\n3\nBegriffe\n″\n″\nallgem\n˙\ne\n˙\ni\n˙\nn\n˙\ne\n˙\nþ\n4\nAllgemeinheiten &\n″\n″\n″\n1–2 Mächte gelten, ist eine nothwendige Folge ihrer\n4\n″\n″\n,\n″\n″\n″\n″\nder\n1–2 Verselbstständigung\n4\n″\nder realen Verhältnisse, deren\n1\n. Die Juristenþ\n2\n. Außer\n4 Ausdruck sie sind.\n″\n420.23",
+        "text_was_truncated": false,
+        "text_full_length": 793
+      },
+      {
+        "chunk_id": "chunk_244600",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1165",
+        "text": "die hier / traditionell & zufällig unterlaufenden > die hier / tra-\nditionell unterlaufenden\nDie zweite Veränderung wahrscheinlich von Marx.\n291.17\n: wie menschliches Wesen, Gattung pp > wie „menschliches We-\nsen“, „Gattung“ pp :\n291.18–19\ndort gegebenen wirklichen Entwicklungen > wirkliche Entwick-\nlung\nVeränderung wahrscheinlich von Marx.\n291.19\n& zu $ihren Zwecken zu verdrehenñ\n291.20\nabgetragenen $philo\n˙\ns\n˙\no\n˙\np\n˙\nh\n˙\ni\n˙\ns\n˙\nc\n˙\nh\n˙\ne\n˙\nn\n˙\nñ",
+        "text_was_truncated": false,
+        "text_full_length": 454
+      },
+      {
+        "chunk_id": "chunk_240572",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "116",
+        "text": "einzelne Punkte, 62 die eine allge-\nmeinere Zusammenfassung erlauben,\ndas Bewußtsein zuweilen weiter vor-\n40\ngerückt\nscheinen\nkann,\nals\ndie",
+        "text_was_truncated": false,
+        "text_full_length": 139
+      },
+      {
+        "chunk_id": "chunk_259252",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "23",
+        "text": "Ausdruck brachte. Damit wurde zugleich der qualitativ neue Ausgangs-\npunkt der politischen Ökonomie der Arbeiterklasse hervorgehoben, die \nden geschichtlichen Charakter der kapitalistischen Produktionsverhält-\nnisse bereits in ihrem Keim, dem Widerspruch zwischen konkreter und \nabstrakter Arbeit, analysiert. Die Untersuchung des Doppelcharakters \nder Arbeit wurde durch eine neue zusammenfassende Bestimmung be-\nreichert (siehe S. 79/80). Darin wird die „Verausgabung menschlicher \nArbeitskraft\" (S. 79) als das gemeinsame Merkmal und übergreifende \nMoment der widersprüchlichen Einheit von abstrakter und konkreter \nArbeit charakterisiert. Mit dem ausdrücklichen Bezug beider Begriffe \nauf dieselbe reale Erscheinung hat Marx sowohl das Verhältnis beider",
+        "text_was_truncated": false,
+        "text_full_length": 757
+      },
+      {
+        "chunk_id": "chunk_244700",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1202",
+        "text": "˙\nñ\n329.15\n: der beiden Seiten untereinander :\n329.17\n„auch“ > „auch“\nHervorhebung möglicherweise von Marx.\n329.17\nausgedrückt $wird% &\n329.18\n„insofern“ > „insofern“\nHervorhebung möglicherweise von Marx.\n329.18–19\n1 wird, z. B. solche lumpige Distinktionenþ\n2 ″\n.\nSolche\n″\n″\nsind\n329.21\nist; $inwiefern ichñ\n329.22–23\na uþ\n1 das Unentbehrliche\ndas menschliche (hier mit dem\nb für\n2\n″\n″\n″\n″\n( ″\n″\n″\n3\n″\n″\n″\n″",
+        "text_was_truncated": false,
+        "text_full_length": 408
+      },
+      {
+        "chunk_id": "chunk_240380",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "49",
+        "text": "37\n[Konvolut zu Feuerbach.] Ms-S. 1 bis 29\nzu fischen, Abends Viehzucht zu\ntreiben na\n˙\nch de\n˙\nm\n˙\nEssen zu kritisiren,\nwie ich gerade Lust habe, ohne je Jä-\nger Fischer Hirt oder Kritiker zu\nwerden.\n18\nDieses Sichfestsetzen\n5\nder sozialen Thätigkeit, diese Con-\nsolidation unsres eignen Produkts zu\neiner sachlichen Gewalt über uns, die\nunsrer Kontrolle entwächst, unsre\nErwartungen durchkreuzt, unsere Be-\n10\nrechnungen zu Nichte macht, ist ei-\nnes der Hauptmomente in der bishe-\nrigen geschichtlichen Entwicklung.\nDie soziale Macht, d. h. die verviel-\nfachte Produktionskraft, die durch\n15\ndas in der Theilung der Arbeit be-\ndingte Zusammenwirken der ver-\nschiedenen Individuen entsteht, er-\nscheint diesen Individuen, weil das\nZusammenwirken selbst nicht frei-\n20\nwillig,\nsondern\nnaturwüchsig",
+        "text_was_truncated": false,
+        "text_full_length": 797
+      },
+      {
+        "chunk_id": "chunk_259220",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "17",
+        "text": "neren Geschlossenheit. Andererseits wurden Veränderungen am Text \nund an der Gliederung durch äußere Ursachen hervorgerufen. Dazu ge-\nhört vor allem die aus der Wirkungsgeschichte der I.Auflage resultie-\nrende Notwendigkeit einer Überarbeitung dieser Auflage unter Berück-\nsichtigung des Aspektes der Verständlichkeit innerhalb der Arbeiterbe-\nwegung, der Reaktion kleinbürgerlicher Sozialisten auf das „Kapital\" \nsowie der bürgerlichen Angriffe auf dieses Werk. Diese Angriffe richte-\nten sich vor allem gegen die Werttheorie und ihren Zusammenhang mit \nanderen Elementen der Marxschen ökonomischen Theorie sowie gegen \ndie im „Kapital\" angewandte dialektische Methode, die der Hegeischen \nMethode gleichgesetzt wurde. Im Nachwort zur 2. Auflage hat Marx di-",
+        "text_was_truncated": false,
+        "text_full_length": 759
+      }
+    ],
+    "meta": {
+      "profile": "quality",
+      "hybrid": true,
+      "reranked": true,
+      "retrieval_ablation": null,
+      "keywords_used": [
+        "Zusammenwirken",
+        "Kooperation",
+        "德意志意识形态",
+        "共同活动",
+        "资本论",
+        "协作"
+      ],
+      "source_filters_used": [
+        "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf"
+      ],
+      "keyword_query": "\"Zusammenwirken\" OR zusammenwirken* OR zusammen* OR \"Kooperation\" OR kooperation* OR kooperat* OR \"德意志意识形态\" OR 德意志意识形态* OR \"共同活动\" OR 共同活动* OR \"资本论\" OR \"协作\"",
+      "sep_reference_enabled": false,
+      "debug": {
+        "final_k": 30,
+        "dense_top_ids": [
+          "chunk_265239",
+          "chunk_263861",
+          "chunk_259252",
+          "chunk_259253",
+          "chunk_259227",
+          "chunk_259224",
+          "chunk_263865",
+          "chunk_262987",
+          "chunk_259291",
+          "chunk_260931",
+          "chunk_245819",
+          "chunk_259220"
+        ],
+        "sparse_top_ids": [
+          "chunk_260949",
+          "chunk_260973",
+          "chunk_260962",
+          "chunk_261540",
+          "chunk_261093",
+          "chunk_261178",
+          "chunk_260944",
+          "chunk_260971",
+          "chunk_262915",
+          "chunk_260930",
+          "chunk_260972",
+          "chunk_260953"
+        ],
+        "fused_top_ids": [
+          "chunk_260949",
+          "chunk_260930",
+          "chunk_240380",
+          "chunk_260973",
+          "chunk_260962",
+          "chunk_265239",
+          "chunk_263861",
+          "chunk_262915",
+          "chunk_259252",
+          "chunk_259253",
+          "chunk_259227",
+          "chunk_260972"
+        ],
+        "retrieval_params_effective": {
+          "SEARCH_K": 30,
+          "FINAL_K": 16,
+          "SPARSE_K": 48,
+          "HYBRID_TOP_N": 40,
+          "RERANK_CANDIDATES": 36,
+          "RRF_DENSE_WEIGHT": 1.35,
+          "RRF_SPARSE_WEIGHT": 1
+        },
+        "source_filter_balance": {
+          "enabled": true,
+          "target_per_filter": {
+            "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf": 30,
+            "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf": 30
+          },
+          "actual_per_filter": {
+            "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf": 30,
+            "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf": 30
+          }
+        }
+      }
+    }
+  },
+  "b2_sparse_only": {
+    "mode": "sparse_only",
+    "mode_label": "B2（sparse_only + rerank）",
+    "count": 30,
+    "docs": [
+      {
+        "chunk_id": "chunk_262216",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "621",
+        "text": "35 tel, worin das konstante, und der Masse Arbeitskraft, worin das variable \nKapital umgesetzt wird. Die erstere Differenz nimmt zu mit der letzteren, \naber in geringerem Grad. \nIm vierten Abschnitt wurde gezeigt, wie die Entwicklung der gesell-\nschaftlichen Produktivkraft der Arbeit Kooperation auf großer Stufenleiter \n40 voraussetzt, wie nur unter dieser Voraussetzung Theilung und Kombina-\ntion der Arbeit organisirt, Produktionsmittel durch massenhafte Koncen-\n569",
+        "text_was_truncated": false,
+        "text_full_length": 470
+      },
+      {
+        "chunk_id": "chunk_261367",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "459",
+        "text": "Dr. Ure, der Pindar der automatischen Fabrik, beschreibt sie einerseits \n10 als „Kooperation verschiedner Klassen von Arbeitern, erwachsnen und \nnicht erwachsnen, die mit Gewandtheit und Fleiß ein System produktiver \nMaschinerie überwachen, das ununterbrochen durch eine Centraikraft \n(den ersten Motor) in Thätigkeit gesetzt wird\", andrerseits als „einen unge-\nheuren Automaten, zusammengesetzt aus zahllosen mechanischen und \n15 selbstbewußten Organen, die im Einverständniß und ohne Unterbrechung \nwirken, um einen und denselben Gegenstand zu produciren, so daß alle \ndiese Organe einer Bewegungskraft untergeordnet sind, die sich von selbst \nbewegt\". Diese beiden Ausdrücke sind keineswegs identisch. In dem einen \nerscheint der kombinirte Gesammtarbeiter oder gesellschaftliche Arbeits-",
+        "text_was_truncated": false,
+        "text_full_length": 791
+      },
+      {
+        "chunk_id": "chunk_260920",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "373",
+        "text": "Elftes Kapitel - Kooperation \nchen ||331| Durchschnittsarbeit abweichen, der Einzelne daher etwas mehr \noder weniger Zeit zu derselben Verrichtung brauchen mag, besitzt der Ar-\nbeitstag jedes Einzelnen als ein Zwölftel des Gesammtarbeitstags von \n144 Stunden die gesellschaftliche Durchschnittsqualität. Für den Kapitali-\n5 sten aber, der ein Dutzend beschäftigt, existirt der Arbeitstag als Gesammt-\narbeitstag des Dutzend. Der Arbeitstag jedes Einzelnen existirt als aliquo-\nter Theil des Gesammtarbeitstags, ganz unabhängig davon, ob die Zwölf \neinander in die Hand arbeiten oder ob der ganze Zusammenhang ihrer Ar-\nbeiten nur darin besteht, daß sie für denselben Kapitalisten arbeiten. Wer-\nlo den dagegen von den 12 Arbeitern je zwei von einem kleinen Meister be-",
+        "text_was_truncated": false,
+        "text_full_length": 768
+      },
+      {
+        "chunk_id": "chunk_260973",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "10 herein den freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital \nverkauft. Historisch jedoch entwickelt sie sich im Gegensatz zur Bauern-\nwirthschaft und zum unabhängigen Handwerksbetrieb, ob dieser zünftige \nForm besitze oder nicht24). Ihnen gegenüber erscheint die kapitalistische \nKooperation nicht als eine besondre historische Form der Kooperation, \n15 sondern die Kooperation selbst als eine dem kapitalistischen Produktions-\nproceß eigenthümliche und ihn specifisch unterscheidende historische \nForm. \nWie die durch die Kooperation entwickelte gesellschaftliche Produktiv-\nkraft der Arbeit als Produktivkraft des Kapitals erscheint, so die Koopera-\n20 tion selbst als eine speciflsche Form des kapitalistischen Produktionspro-",
+        "text_was_truncated": false,
+        "text_full_length": 746
+      },
+      {
+        "chunk_id": "chunk_260972",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "Elftes Kapitel - Kooperation \nGemeinwesen vorherrschend finden, beruht einerseits auf dem Gemeinei-\ngenthum an den Produktionsbedingungen, andrerseits darauf, daß das ein-\nzelne Individuum sich von der Nabelschnur des Stammes oder des Ge-\nmeinwesens noch ebensowenig losgerissen hat, wie das Bienenindividuum \n5 \nvom Bienenstock. Beides unterscheidet sie von der kapitalistischen Koope-\nration. Die sporadische Anwendung der Kooperation auf großem Maßstab \nin der antiken Welt, ||344| dem Mittelalter und den modernen Kolonien, \nberuht auf unmittelbaren Herrschafts- und Knechtschafts-Verhältnissen, \nzumeist auf der Sklaverei. Die kapitalistische Form setzt dagegen von vorn-\n10 herein den freien Lohnarbeiter voraus, der seine Arbeitskraft dem Kapital",
+        "text_was_truncated": false,
+        "text_full_length": 753
+      },
+      {
+        "chunk_id": "chunk_264222",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1267",
+        "text": "Variantenverzeichnis \n439.17 \nSchwankungen] D1 Fluktuationen [374.3] \n439.23 \nBaumwolle] D1 Baumwollballen [374.9-10] K2 Baumwolle \n439.33 \ndes Mehls] D1 für Mehl [374.19] \n440.10 \nLobreden ] D1 Elogen [374.33] \n440.26 u. \nNote245). J~ 8. Revolutionirung bis Kooperation. J~ Man] D1 \n441.1-5 \nNote245). J Man [375.11-12] \n440.40 \nunheilvolle] D1 ruinirende [375.32] \n440.40 \nzusammenwirkende ] D1 cooperirende [375.33] \n440.40 \nhervorgebracht] D1 producirt [375.33] \n441.38 \nauf Grundlage ] D1 auf technologischer Grundlage [376.33-34] \n441.40 \nEngland, dort mit] D1 England, mit [376.35] \n442.4 \nder eigentlichen Fabrik] D1 der Fabrik per se [376.18] \n442.18-20 \n6 d.249). J b) Rückwirkung bis Hausarbeit. J Mit ] D1 6 d.249) J Mit \n[376.32 und 377.1] \n443.18",
+        "text_was_truncated": false,
+        "text_full_length": 760
+      },
+      {
+        "chunk_id": "chunk_264211",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1263",
+        "text": "sind bis beigeordnet] D1 sind seinen bewußtlosen Organen nur als \nbewußte Organe beigeordnet [345.2-3] \ndenselben] D1 den mechanischen Organen [345.3-4] \ntechnische] D1 technologische [345.15] \ngegliederten ] D1 kombinirten [345.24] \ngegliederte] D1 kombinirte [345.27] \nmannichfacher] D1 verschiedenartiger [346.6] \nerfordert auch die] D1 erfordert die [346.7] \nKooperation bis Maschinen. ] D1 Cooperation nicht minder Verthei-\nlung besondrer Arbeiter unter die besonderten Maschinen. \n[346.7-8] \n1211",
+        "text_was_truncated": false,
+        "text_full_length": 502
+      },
+      {
+        "chunk_id": "chunk_260952",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "379",
+        "text": "Elftes Kapitel - Kooperation \nder einzelne Kapitalist im Ankauf von Arbeitskraft auslegen kann, d.h. von \ndem Umfang, worin je ein Kapitalist über die Lebensmittel vieler Arbeiter \nverfügt. \nUnd wie mit dem variablen, verhält es sich mit dem konstanten Kapital. \n5 Die Auslage für Rohmaterial z. B. ist 30mal größer für den einen Kapitali-\nsten, der 300, als für jeden der 30 Kapitalisten, der je 10 Arbeiter beschäf-\ntigt. Werthumfang und Stoffmasse der gemeinsam benutzten Arbeitsmittel \nwachsen zwar nicht in demselben ||339| Grad wie die beschäftigte Arbeiter-\nanzahl, aber sie wachsen beträchtlich. Koncentration größrer Massen von \n10 Produktionsmitteln in der Hand einzelner Kapitalisten ist also materielle \nBedingung für die Kooperation von Lohnarbeitern, und der Umfang der",
+        "text_was_truncated": false,
+        "text_full_length": 783
+      },
+      {
+        "chunk_id": "chunk_240381",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "49",
+        "text": "schiedenen Individuen entsteht, er-\nscheint diesen Individuen, weil das\nZusammenwirken selbst nicht frei-\n20\nwillig,\nsondern\nnaturwüchsig\nist,\nnicht als ihre eigne, vereinte Macht,\nsondern als eine fremde, außer ihnen\nstehende Gewalt, von der sie nicht\nwissen woher & wohin, die sie also\n25\nnicht mehr beherrschen können, die\nim Gegentheil nun eine eigenthüm-\nliche vom Wollen & Laufen der\nMenschen unabhängige, ja dies Wol-\nlen & Laufen erst dirigirende Rei-\n30\nhenfolge von Phasen & Entwick-\nlungsstufen durchlaufen.x Wie hätte\nsonst z. B. das Eigenthum überhaupt\neine Geschichte haben, verschiedene\nGestalten annehmen & etwa das\n35\nGrundeigenthum je nach der ver-\nschiedenen vorliegenden Vorausset-\nzung in Frankreich aus der Parzelli-\nrung zur Centralisation in wenigen",
+        "text_was_truncated": false,
+        "text_full_length": 773
+      },
+      {
+        "chunk_id": "chunk_260962",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "381",
+        "text": "Elftes Kapitel • Kooperation \nmando desselben Kapitals zusammenwirkende Arbeitermasse industrieller \nOberofficiere (Dirigenten, managers) und Unterofficiere (Arbeitsaufseher, \nforemen, overlookers, contre-maîtres), die während des Arbeitsprocesses \nim Namen des Kapitals kommandiren. Die Arbeit der Oberaufsicht befe-\n5 stigt sich zu ihrer ausschließlichen Funktion. Bei Vergleichung der Pro-\nduktionsweise unabhängiger Bauern oder selbstständiger Handwerker mit \nder auf Sklaverei beruhenden Plantagenwirthschaft, zählt der politische \nOekonom diese Arbeit der Oberaufsicht zu den faux frais de produc-\ntion21*). Bei Betrachtung der kapitalistischen Produktionsweise identiflcirt \n10 er dagegen die Funktion der Leitung, soweit sie aus der Natur des gemein-",
+        "text_was_truncated": false,
+        "text_full_length": 758
+      },
+      {
+        "chunk_id": "chunk_260949",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "378",
+        "text": "Produktivkraft der Arbeit oder Produktivkraft gesellschaftlicher Arbeit. Sie \nentspringt aus der Kooperation selbst. Im planmäßigen Zusammenwirken \nmit Andern streift der Arbeiter seine individuellen Schranken ab und ent- 20 \nwickelt sein Gattungsvermögen19). \nWenn Arbeiter überhaupt nicht unmittelbar zusammenwirken können, \nohne zusammen zu sein, ihre Konglomeration auf bestimmtem Raum da-\nher Bedingung ihrer Kooperation ist, können Lohnarbeiter nicht kooperi-\nren, ohne daß dasselbe Kapital, derselbe Kapitalist sie gleichzeitig anwen- 25 \ndet, also ihre Arbeitskräfte gleichzeitig kauft. Der Gesammtwerth dieser \nArbeitskräfte, oder die Lohnsumme der Arbeiter für den Tag, die Woche \nu.s.w., muß daher in der Tasche des Kapitalisten vereint sein, bevor die Ar-",
+        "text_was_truncated": false,
+        "text_full_length": 767
+      },
+      {
+        "chunk_id": "chunk_260977",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "384",
+        "text": "Vierter Abschnitt • Die Produktion des relativen Mehrwerts \nso in den noch handwerksmäßigen Anfängen der Manufaktur25) und in je-\nner Art großer Agrikultur, welche der Manufakturperiode entspricht, und \nsich wesentlich nur durch die Masse der gleichzeitig angewandten Arbeiter \nund den Umfang der koncentrirten Produktionsmittel von der Bauern-\nwirthschaft unterscheidet. Die einfache Kooperation ist stets noch vorherr- \n5 \nsehende Form solcher Produktionszweige, worin das Kapital auf großer \nStufenleiter operirt, ohne daß Theilung der Arbeit oder Maschinerie eine \nbedeutende Rolle spielte. \nDie Kooperation bleibt die Grundform der kapitalistischen Produktions-\nweise, obgleich ihre einfache Gestalt selbst als besondre Form neben ihren 10 \nweiter entwickelten Formen erscheint.",
+        "text_was_truncated": false,
+        "text_full_length": 783
+      },
+      {
+        "chunk_id": "chunk_261093",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "406",
+        "text": "duktionsmittel in Kapital ist also ein aus dem technischen Charakter der \nManufaktur entspringendes Gesetz62). \nWie in der einfachen Kooperation ist in der Manufaktur der funktioni- 20 \nrende Arbeitskörper eine Existenzform des Kapitals. Der aus vielen indivi-\nduellen Theilarbeitern zusammengesetzte gesellschaftliche Produktions-\nmechanismus gehört dem Kapitalisten. Die aus der Kombination der \nArbeiten entspringende Produktivkraft erscheint daher als Produktivkraft \ndes Kapitals. Die eigentliche Manufaktur unterwirft nicht nur den früher 25 \nselbstständigen Arbeiter dem Kommando und der Disciplin des Kapitals, \nsondern schafft überdem eine hierarchische Gliederung unter den Arbei-\ntern selbst. Während die einfache Kooperation die Arbeitsweise der Einzel-",
+        "text_was_truncated": false,
+        "text_full_length": 765
+      },
+      {
+        "chunk_id": "chunk_244826",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1255",
+        "text": "also $diesenñ seiner Antithese bis lassen.m\n382.31\nhineinbringt > meinfängtm\n382.32–33\nsehen. š m$Die Gedankenlosigkeit & Zusammenhangslosigkeit,\n1\nmit der Sankt Sancho diese beiden obigen Sätze mit seinen\n2m womit\nübrigen Phrasen über das Recht zusammenstellt, ist nur dieselbe\nKonfusion, $dieñ mit der er das Recht sowohl als „Willen“ wie\nals „Macht“ auffaßt.%m In\n382.33\nGeschichte $der Theorie% bildeten\nTilgung wahrscheinlich von Marx.\n382.34\nRechts $ansa\n˙\nh\n˙\ne\n˙\nn\n˙\nñ\n382.34\nbetrachteten, $einenñ\n382.35–36\nansahen – $ein Gegensatz,ñ\n382.36–37\n: (Kind, Alter, Neger pp) :\n382.37\n: (Jüngling, Neuer, Mongole pp) :\n382.37\nauffassen $könntenñ\n383.1\nabhängt, $z.B.% ihre\n383.1\n& die $damit zusammenhängen\n˙\nd\n˙\ne\n˙\nñ",
+        "text_was_truncated": false,
+        "text_full_length": 721
+      },
+      {
+        "chunk_id": "chunk_266147",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1748",
+        "text": "635 \n- Besonderheiten des Produktions- und \nReproduktionsprozesses 325 554 \n- Produktivität der Arbeit 477 615 616 \n670 \n- in vorkapitalistischen Produktionsweisen \n330 331 351 352 483 646 647 \n- im Kapitalismus 387 388 435 475-477 581 \n582 585 611 612 615 616 667-673 \n- und große Industrie 387 388 434 442 \n475-477 672 \n- Anwendung von Maschinerie 366 367 \n475 476 582 615 \n- Anwendung der Wissenschaft 476 \n- Kooperation 325 330-332 670 \n- Umwälzung der A. 374 416 435 475 476 \n640 655 668 \n- Erde als Arbeitsmittel in der A. 194 \n—» Grundeigentum; Viehzucht \n1696",
+        "text_was_truncated": false,
+        "text_full_length": 567
+      },
+      {
+        "chunk_id": "chunk_245332",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "1440",
+        "text": "H11).\n268.26–29\np 277. „Wäre bis bleiben.“] Stirner: Der Einzige. S. 276/277. –\nHervorhebungen von Marx und Engels.\n268.41–269.1\nIn der revolutionären bis zusammen.] Ähnlich formulierte Marx in\nden Thesen „ad Feuerbach“: „Das Zusammenfallen de\n˙\ns\n˙\nAen-\nderns de\n˙\nr\n˙\nUmstände u. de\n˙\nr\n˙\nmenschlichen Thätigkeit od. Selbst-\nveränderung kann nur als revolutionaire Praxis gefaßt u. rati-",
+        "text_was_truncated": false,
+        "text_full_length": 389
+      },
+      {
+        "chunk_id": "chunk_263917",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "1180",
+        "text": "Das Kapital • Erster Band • Hamburg 1872 \n8) Revolutionirung von Manufaktur, \nHandwerk und Hausarbeit durch \ndie große Industrie. \na) Aufhebung der auf Handwerk und \nTheilung der Arbeit beruhenden \nKooperation. \nb) Rückwirkung des Fabrikwesens auf \nManufaktur und Hausarbeit. \nc) Die moderne Manufaktur. \nd) Die moderne Hausarbeit. \ne) Uebergang der modernen Manu-\nfaktur und Hausarbeit in die große \nIndustrie. Beschleunigung dieser \nRevolution durch Anwendung der \nFabrikgesetze auf jene Betriebs-\nweisen. \n9) Fabrikgesetzgebung. (Gesundheits-\nund Erziehungsklauseln). Ihre Ver-\nallgemeinerung in England. \n10) Große Industrie und Agrikultur. \nFÜNFTER ABSCHNITT. \nDie Produktion des absoluten und \nrelativen Mehrwerths. \nVierzehntes Kapitel. Absoluter und \nrelativer Mehrwerth.",
+        "text_was_truncated": false,
+        "text_full_length": 779
+      },
+      {
+        "chunk_id": "chunk_260971",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "382",
+        "text": "Die Kooperation im Arbeitsproceß, wie wir sie in den Kulturanfängen \n35 \nder Menschheit, bei Jägervölkern23a) oder etwa in der Agrikultur indischer \n\") R. Jones: Textbook of Lectures etc., p. 77, 78. Die altassyrischen, ägyptischen u. s. w. \nSammlungen in London und andren europäischen Hauptstädten machen uns zu Augenzeu-\ngen jener kooperativen Arbeitsprocesse. \n\"*) Linguet in seiner „Théorie des Lois civiles\" hat vielleicht nicht Unrecht, wenn er die Jagd \n40 \nfür die erste Form der Kooperation, und Menschenjagd (Krieg) für eine der ersten Formen der \nJagd erklärt. \n330",
+        "text_was_truncated": false,
+        "text_full_length": 577
+      },
+      {
+        "chunk_id": "chunk_260975",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "383",
+        "text": "sich die kapitalistische Produktionsweise daher einerseits als historische \nNotwendigkeit für die Verwandlung des Arbeitsprocesses in einen gesell-\n30 schaftlichen Proceß darstellt, so andrerseits diese gesellschaftliche Form \ndes Arbeitsprocesses als eine vom Kapital angewandte Methode, um ihn \ndurch Steigerung seiner Produktivkraft profitlicher auszubeuten. \nIn ihrer bisher betrachteten einfachen Gestalt fallt die Kooperation zu-\nsammen mit der Produktion auf größrer Stufenleiter, bildet ||345| aber \n35 keine feste, charakteristische Form einer besondren Entwicklungsepoche \nder kapitalistischen Produktionsweise. Höchstens erscheint sie annähernd \nM) Die kleine Bauernwirthschaft und der unabhängige Handwerksbetrieb, die beide theils die",
+        "text_was_truncated": false,
+        "text_full_length": 747
+      },
+      {
+        "chunk_id": "chunk_243885",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "947",
+        "text": "935\nVariantenverzeichnis\n106.26 l\nBedürfniß $zu neuerñ\n106.27 l\n1 schafft. In\n2 ″\n.\nþ\n3 ″\n. In\n106.29–\n107.2 l\nGrundeigenthums : (verursacht bis wurde) : $derñ\n106.30–31 l\n: & Verschuldung :\n106.37–39 l\n1 außer den\ngewöhnlichen noch heute gültigen ökonomi-\n2 ″\ndurch die\n″\n″\n″\n″\n″\n1 schen Ursachen,þ\n2 ″\n″\n, durch\n106.40 l\nTributgetreides & $die hiermit folgendeñ\n107.3 l\nverschwunden, $&% die\n107.7 l\nProduktion $& hieltñ\n107.9 l\nes $nurñ\n107.25–26 l\n: durch Barbaren :\n107.26 l\nan, $daßñ\n107.27 l\nNation, die $sichñ\n107.32–33 l\nihrem Zusammenwirken, soweit dies möglich ist, > dem Gemein-\nwesen\n107.33 l\nberuht. $Esñ\n107.35–36 l\n: in Papier bestehende :\n108.8 l\n90 > m64m\n108.12 l\nentsprechen $muß%, oder\n108.13 l\nnicht $derñ\n108.16 l\nFaktum $daßñ\n108.16 l\n: in der Zeit :\n108.20 l",
+        "text_was_truncated": false,
+        "text_full_length": 783
+      },
+      {
+        "chunk_id": "chunk_260930",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "375",
+        "text": "Elftes Kapitel - Kooperation \nDie Form der Arbeit Vieler, die in demselben Produktionsproceß oder in \nverschiednen, aber zusammenhängenden Produktionsprocessen, planmä-\nßig neben und mit einander arbeiten, heißt Kooperation10). \nWie die Angriffskraft einer Kavalerieschwadron oder die Widerstands-\n5 kraft eines Infanterieregiments wesentlich verschieden ist von der Summe \nder von jedem Kavaleristen und Infanteristen vereinzelt entwickelten An-\ngriffs- und Widerstandskräfte, so die mechanische Kraftsumme vereinzel-\nter Arbeiter von der gesellschaftlichen Kraftpotenz, die sich entwickelt, \nwenn viele Hände gleichzeitig in derselben ungeteilten Operation zusam-\n10 menwirken, z. B. wenn es gilt eine Last zu heben, eine Kurbel zu drehn",
+        "text_was_truncated": false,
+        "text_full_length": 739
+      },
+      {
+        "chunk_id": "chunk_262915",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "766",
+        "text": "Die Produktion des relativen Mehrwerths. \nZehntes Kapitel. Begriff des relativen Mehrwerths \n318 \n15 \nElftes Kapitel. Kooperation \n329 \n(Ausgangspunkt der kapitalistischen Produktion, \nihr \nquantitativer Unterschied von der zünftigen Industrie \nS. 329. - Gesellschaftliche Durchschnittsarbeit S. 330. -\nOekonomie der Produktionsmittel S.332. - Gesellschaft- \n20 \nliehe Produktivkräfte der kooperativen Arbeit S. 333. -\nFrühere Formen der Kooperation S. 342.- Ihre kapitali-\nstische Form S.343.) \nZwölftes Kapitel. Theilung der Arbeit und Manufaktur \n345 \n1) Doppelter Ursprung der Manufaktur \n345 \n25 \n2) Der Theilarbeiter und sein Werkzeug \n3481 \n|826| \n3) Die beiden Grundformen der Manufaktur. Heterogene Manu-\nfaktur und organische Manufaktur \n352",
+        "text_was_truncated": false,
+        "text_full_length": 751
+      },
+      {
+        "chunk_id": "chunk_240636",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "141",
+        "text": "chen wieder verschiedene Abtheilungen unter den zu bestimmten Arbei-\n20\nten zusammenwirkenden Individuen. Die Stellung dieser einzelnen Ab-\ntheilungen gegen einander ist bedingt durch die Betriebsweise der acker-\nbauenden, industriellen & kommerziellen Arbeit (Patriarchalismus, Skla-\nverei, Stände, Klassen). Dieselben Verhältnisse zeigen sich bei entwickel-\nterem Verkehr in\nden Beziehungen verschiedner Nationen zu einander.\n25\nDie verschiedenen Entwicklungsstufen der Theilung der Arbeit sind\neben soviel verschiedene Formen des Eigenthums; d. h. die jedesmalige\nStufe der Theilung der Arbeit bestimmt auch die Verhältnisse der Indi-\nviduen zu einander in Beziehung auf das Material, Instrument, & Pro-\ndukt der Arbeit.\n30\nDie erste Form des Eigenthums ist das Stammeigenthum. Es entspricht",
+        "text_was_truncated": false,
+        "text_full_length": 794
+      },
+      {
+        "chunk_id": "chunk_260992",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "387",
+        "text": "Zwölftes Kapitel • Teilung der Arbeit und Manufaktur \ndiese Theilung der Arbeit eine besondre Art der Kooperation, und manche \nihrer Vortheile entspringen aus dem allgemeinen Wesen, nicht aus dieser \nbesondren Form der Kooperation. \n2. Der Theilarbeiter und sein \nWerkzeug. \n5 Gehn wir nun näher auf das Einzelne ein, so ist zunächst klar, daß ein Ar-\nbeiter, der lebenslang eine und dieselbe einfache Operation verrichtet, sei-\nnen ganzen Körper in ihr automatisch einseitiges Organ ||349| verwandelt \nund daher weniger Zeit dazu verbraucht als der Handwerker, der eine \nganze Reihe von Operationen abwechselnd ausführt. Der kombinirte Ge-\n10 sammtarbeiter, der den lebendigen Mechanismus der Manufaktur bildet, \nbesteht aber aus lauter solchen einseitigen Theilarbeitern. Im Vergleich",
+        "text_was_truncated": false,
+        "text_full_length": 786
+      },
+      {
+        "chunk_id": "chunk_260938",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "376",
+        "text": "Arbeitsgegenstand vielseitig im Raum angreift, weil der kombinirte Arbei-\nter oder Gesammtarbeiter vorn und hinten Augen und Hände hat und in \ngewissem Grad Allgegenwart besitzt, fördert das Gesammtprodukt rascher 20 \nals 12 zwölfstündige Arbeitstage mehr oder minder vereinzelter Arbeiter, \ndie ihr Werk einseitiger angreifen müssen. In derselben Zeit reifen ver-\nschiedne Raumtheile des Produkts. \nWir betonten, daß die Vielen, die einander ergänzen, Dasselbe oder \nGleichartiges thun, weil diese einfachste Form gemeinsamer Arbeit auch 25 \nin der ausgebildetsten Gestalt der Kooperation eine große Rolle spielt. Ist \nder Arbeitsproceß komplicirt, so erlaubt die bloße Masse der Zusammenar-\nbeitenden die verschiednen Operationen ||336| unter verschiedne Hände zu",
+        "text_was_truncated": false,
+        "text_full_length": 765
+      },
+      {
+        "chunk_id": "chunk_240572",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "116",
+        "text": "einzelne Punkte, 62 die eine allge-\nmeinere Zusammenfassung erlauben,\ndas Bewußtsein zuweilen weiter vor-\n40\ngerückt\nscheinen\nkann,\nals\ndie",
+        "text_was_truncated": false,
+        "text_full_length": 139
+      },
+      {
+        "chunk_id": "chunk_262796",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "735",
+        "text": "Fünfundzwanzigstes Kapitel - Die moderne Kolonisationstheorie \nDie kapitalistische Produktions- und Aneignungsweise, daher das kapi-\ntalistische Privateigenthum, ist die erste Negation des individuellen, auf \neigne Arbeit gegründeten Privateigenthums. Die Negation der kapitalisti-\nschen Produktion wird durch sie selbst, mit der Notwendigkeit eines Na-\n5 \nturprocesses, producirt. Es ist Negation der Negation. Diese stellt das indi-\nviduelle Eigenthum wieder her, aber auf Grundlage der Errungenschaft der \nkapitalistischen Aera, der Kooperation freier Arbeiter und ihrem Gemein-\neigenthum an der Erde und den durch die Arbeit selbst producirten Pro-\nduktionsmitteln. \n10 \nDie Verwandlung des auf eigner Arbeit der Individuen beruhenden, zer-",
+        "text_was_truncated": false,
+        "text_full_length": 744
+      },
+      {
+        "chunk_id": "chunk_240380",
+        "source": "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "page": "49",
+        "text": "37\n[Konvolut zu Feuerbach.] Ms-S. 1 bis 29\nzu fischen, Abends Viehzucht zu\ntreiben na\n˙\nch de\n˙\nm\n˙\nEssen zu kritisiren,\nwie ich gerade Lust habe, ohne je Jä-\nger Fischer Hirt oder Kritiker zu\nwerden.\n18\nDieses Sichfestsetzen\n5\nder sozialen Thätigkeit, diese Con-\nsolidation unsres eignen Produkts zu\neiner sachlichen Gewalt über uns, die\nunsrer Kontrolle entwächst, unsre\nErwartungen durchkreuzt, unsere Be-\n10\nrechnungen zu Nichte macht, ist ei-\nnes der Hauptmomente in der bishe-\nrigen geschichtlichen Entwicklung.\nDie soziale Macht, d. h. die verviel-\nfachte Produktionskraft, die durch\n15\ndas in der Theilung der Arbeit be-\ndingte Zusammenwirken der ver-\nschiedenen Individuen entsteht, er-\nscheint diesen Individuen, weil das\nZusammenwirken selbst nicht frei-\n20\nwillig,\nsondern\nnaturwüchsig",
+        "text_was_truncated": false,
+        "text_full_length": 797
+      },
+      {
+        "chunk_id": "chunk_260943",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "377",
+        "text": "einem Tag nur einen Arbeitstag herausschneiden, sage von 12 Stunden, \n10 aber die Kooperation von 100 z. B. erweitert einen zwölfstündigen Tag zu \neinem Arbeitstag von 1200 Stunden. Die Kürze der Arbeitsfrist wird kom-\npensirt durch die Größe der Arbeitsmasse, die im entscheidenden Augen-\nblick auf das Produktionsfeld geworfen wird. Die rechtzeitige Wirkung \nhängt hier ab von der gleichzeitigen Anwendung vieler kombinirten Ar-\nis \nbeitstage, der Umfang des Nutzeffekts von der Arbeiteranzahl, die jedoch \nstets kleiner bleibt als die Anzahl der Arbeiter, die vereinzelt in demselben \nZeitraum denselben Wirkungsraum ausfüllen würden16). Es ist der Mangel-\ndieser Kooperation, wodurch im Westen der Vereinigten Staaten eine \nMasse Korn, und in den Theilen Ostindiens, wo englische Herrschaft das",
+        "text_was_truncated": false,
+        "text_full_length": 798
+      },
+      {
+        "chunk_id": "chunk_260936",
+        "source": "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf",
+        "page": "376",
+        "text": "Vierter Abschnitt • Die Produktion des relativen Mehrwerts \nstoteles meint, ein politisches13), jedenfalls ein gesellschaftliches Thier \nist. | \n|335| Obgleich Viele Dasselbe oder Gleichartiges gleichzeitig mit einan-\nder verrichten, kann die individuelle Arbeit eines Jeden dennoch als Theil \nder Gesammtarbeit verschiedne Phasen des Arbeitsprocesses selbst darstel- \n5 \nlen, die der Arbeitsgegenstand, in Folge der Kooperation, rascher durch-\nläuft. Z. B., wenn Maurer eine Reihe von Händen bilden, um Bausteine \nvom Fuß eines Gestells bis zu seiner Spitze zu befördern, thut jeder von \nihnen dasselbe, aber dennoch bilden die einzelnen Verrichtungen kontinu-\nirliche Theile einer Gesammtverrichtung, besondre Phasen, die jeder Bau- 10",
+        "text_was_truncated": false,
+        "text_full_length": 737
+      }
+    ],
+    "meta": {
+      "profile": "quality",
+      "hybrid": true,
+      "reranked": true,
+      "retrieval_ablation": "sparse_only",
+      "keywords_used": [
+        "Zusammenwirken",
+        "Kooperation",
+        "德意志意识形态",
+        "共同活动",
+        "资本论",
+        "协作",
+        "MEGA②I/5",
+        "MEGA②II/10"
+      ],
+      "source_filters_used": [
+        "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf",
+        "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf"
+      ],
+      "keyword_query": "\"Zusammenwirken\" OR zusammenwirken* OR zusammen* OR \"Kooperation\" OR kooperation* OR kooperat* OR \"德意志意识形态\" OR 德意志意识形态* OR \"共同活动\" OR 共同活动* OR \"资本论\" OR \"协作\" OR \"MEGA②I/5\" OR mega②i5* OR \"MEGA②II/10\" OR mega②ii10*",
+      "sep_reference_enabled": false,
+      "debug": {
+        "final_k": 30,
+        "dense_top_ids": [
+          "chunk_263590",
+          "chunk_263591",
+          "chunk_263916",
+          "chunk_263597",
+          "chunk_263623",
+          "chunk_263140",
+          "chunk_263636",
+          "chunk_242497",
+          "chunk_259530",
+          "chunk_259307",
+          "chunk_263598",
+          "chunk_265277"
+        ],
+        "sparse_top_ids": [
+          "chunk_260949",
+          "chunk_260973",
+          "chunk_260962",
+          "chunk_261540",
+          "chunk_261093",
+          "chunk_261178",
+          "chunk_260944",
+          "chunk_260971",
+          "chunk_262915",
+          "chunk_260930",
+          "chunk_260972",
+          "chunk_260953"
+        ],
+        "fused_top_ids": [],
+        "retrieval_params_effective": {
+          "SEARCH_K": 30,
+          "FINAL_K": 16,
+          "SPARSE_K": 48,
+          "HYBRID_TOP_N": 40,
+          "RERANK_CANDIDATES": 36,
+          "RRF_DENSE_WEIGHT": 1.35,
+          "RRF_SPARSE_WEIGHT": 1
+        },
+        "source_filter_balance": {
+          "enabled": true,
+          "target_per_filter": {
+            "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf": 30,
+            "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf": 30
+          },
+          "actual_per_filter": {
+            "BAND 5 Manuskripte und Drucke zur Deutschen Ideologie.pdf": 15,
+            "BAND 6 Karl Marx Das Kapital. Kritik der politischen Ökonomie. Erster Band, Hamburg 1872.pdf": 30
+          }
+        }
+      }
+    }
+  }
+}
